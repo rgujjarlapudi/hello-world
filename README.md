@@ -1,4 +1,4 @@
-hello-world
+Cool-buddy
 ===================== 
 
 This is my first Repo'
